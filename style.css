@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Poppins&display=swap');
+p {
+  font-family: Poppins;
+}
+img {
+ height:   250px;
+}
+div {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
